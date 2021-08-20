@@ -5,8 +5,11 @@ un blog increible para el curso de GIT
 ## En este curso vemos de todo:
 * Todos los comandos de Git
 * El flujo de trabajo en Github
-* El veradadero amor por las buenas practics
+* El veradadero amor por las buenas practicsS
 * Trucos muy locos del profesor
 * Las personalidades múltiples  de Freedy
+* creado por Nestor Garcia
+* todo se puede con esfuerzo
+* vale la pena aprender
 
 Y como un amable recordatorio:**Este readme.md es un chiste**. Diseñado para el ejemplo.  Si llegas acá  NO TE LO TOMES EN SERIO  y mejor ve  [otro curso](https://www.udemy.com/ "otro curso")aver el curso.
