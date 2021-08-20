@@ -11,5 +11,8 @@ un blog increible para el curso de GIT
 * creado por Nestor Garcia
 * todo se puede con esfuerzo
 * vale la pena aprender
+* en el camino para ser desarrollador
+* inclimos ejemplos
+* Disponible para todas las edades
 
 Y como un amable recordatorio:**Este readme.md es un chiste**. Diseñado para el ejemplo.  Si llegas acá  NO TE LO TOMES EN SERIO  y mejor ve  [otro curso](https://www.udemy.com/ "otro curso")aver el curso.
