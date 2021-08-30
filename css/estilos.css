@@ -1,19 +1,30 @@
-body{
-    color: #2a9d8f;
-    text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 16 px;
-}
 
-#container
+  /*cuando nos ponemos sobre el link*/
+
+#cabecero
 {
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #322a9d;
-    margin:0 auto;
-}
-#container h1{
-    font-size: 20px;
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:#264653;
+font-size: 45px;
+text-align: justify;
 
 }
+
+
+.container
+{
+    margin: 2px 12px 3px 5px;
+    border: 5px solid#e76f51; 
+    padding: 3px;
+    
+    width: 80%;
+    height: 80%;
+  
+    box-sizing: border-box;
+    text-align: justify;
+
+ 
+    background-color: #e9c46a;
+}
+
